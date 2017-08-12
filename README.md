@@ -2,4 +2,4 @@
 
 A simple starry theme for atom made for spellcasters, wizards, and enchantresses.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot_Of_Wizard_Syntax](https://raw.githubusercontent.com/candy5hark/wizard-syntax/master/screenshot.png)

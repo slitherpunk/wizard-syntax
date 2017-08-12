@@ -1,7 +1,7 @@
 {
   "name": "wizard-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple starry theme for atom made for spellcasters, wizards, and enchantresses.",
   "keywords": [
     "syntax",
